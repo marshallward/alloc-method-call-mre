@@ -1,4 +1,5 @@
 module MOM_EOS_base_type
+implicit none
 
 type, abstract :: EOS_base
   contains
